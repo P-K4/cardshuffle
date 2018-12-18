@@ -6,5 +6,5 @@ The conceptual issue I've bumped into is how to calculate the muddle of a deck.
 I think if I split the deck into 6 stacks and randomly orbited 6 cards from each stack about it
 then randomly select one of the stacks and one of the cards orbiting it to move into the muddled deck
 while selecting another random card from the 1/6th deck pile to replace the card lost from the orbit of the 1/6th deck pile
-and repeating this process untill all the cards from the 1/6th deck piles have been randomly moved into the luddled deck
+and repeating this process untill all the cards from the 1/6th deck piles have been randomly moved into the muddled deck
 that it would be an effective physical approximation of a human dealer muddling a deck of cards before shuffling them.
