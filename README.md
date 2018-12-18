@@ -1,5 +1,5 @@
 # cardshuffle
-the idea is to replicate the physical mechanism of a human dealer shuffling a deck of cards
+The idea is to replicate the physical mechanism of a human dealer shuffling a deck of cards
 by cutting the deck, riffling the cut halves back together, and stripping the deck
 just like a dealer in Las Vegas would.  
 the conceptual issue I've bumped into is how to calculate the muddle of a deck.
